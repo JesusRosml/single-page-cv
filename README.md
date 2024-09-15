@@ -6,6 +6,8 @@ Este proyecto es una página web de una sola página que presenta el Curriculum 
 
 La página incluye secciones para la información de contacto, habilidades, educación y experiencia laboral de Jesús Pérez Hidalgo. También incluye enlaces a sus perfiles de LinkedIn y GitHub.
 
+## URL del Proyecto
+
 Puedes ver la página en vivo en el siguiente enlace:
 [Single Page CV - Jess Meshee](https://jesusrosml.github.io/single-page-cv/)
 
