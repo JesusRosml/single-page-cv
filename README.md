@@ -11,6 +11,9 @@ La página incluye secciones para la información de contacto, habilidades, educ
 Puedes ver la página en vivo en el siguiente enlace:
 [Single Page CV - Jess Meshee](https://jesusrosml.github.io/single-page-cv/)
 
+## Proyecto recomendado por roadmap
+[Sinlgle-Page CV](https://roadmap.sh/projects/single-page-cv)
+
 ## Estructura del Proyecto
 
 El proyecto está estructurado de la siguiente manera:
